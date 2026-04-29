@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angyshrimp&style=plastic&color=5fbd51&label=Strangers" alt="fierypaw's visitor counter" />
+</p> 
+  
+<p align="center">
+<img src="Untitled28_20260429232404.png" alt="Alt text" width="300">
+</p>
 
-<!--
-**angyshrimp/angyshrimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>you gave me a tongue just to tie </i><br>
+  <i> i'll swallow my <b>pride</b>, swear not to lie </i>
+</p>
