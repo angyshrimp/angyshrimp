@@ -7,6 +7,4 @@
 </p>
 
 <p align="center">
-  <i>you gave me a tongue just to tie </i><br>
-  <i> i'll swallow my <b>pride</b>, swear not to lie </i>
-</p>
+<img src="https://64.media.tumblr.com/1c9fc231ff8c1f4554d7d20c8f635257/b90f09f2ea52fe6e-ef/s100x200/a0cf6af521d27cee744e8508de060a8777aa1c42.gifv" alt="Alt text" width="100"> <br>
