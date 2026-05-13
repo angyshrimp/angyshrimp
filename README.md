@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angyshrimp&style=plastic&color=5fbd51&label=Strangers" alt="fierypaw's visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=angyshrimp&style=plastic&color=5fbd51&label=corpse" alt="fierypaw's visitor counter" />
 </p> 
   
 <p align="center">
